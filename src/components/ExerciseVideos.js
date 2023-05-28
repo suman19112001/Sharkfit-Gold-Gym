@@ -31,7 +31,7 @@ const ExerciseVideos = ({ exerciseVideos, name }) => {
           </a>
         ))}
       </Stack>
-    </Box>
+    </Box>;
   );
 };
 
